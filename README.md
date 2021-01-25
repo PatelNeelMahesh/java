@@ -1,1 +1,1 @@
-# java
+# java exercises in intellij IDEA
