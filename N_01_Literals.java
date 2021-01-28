@@ -1,6 +1,6 @@
 package com.company;
 
-public class N_1_Literals {
+public class N_01_Literals {
 
     public static void main(String[] args)
     {
