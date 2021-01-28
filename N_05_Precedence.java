@@ -1,6 +1,6 @@
 package com.company;
 
-public class N_5_Precedence {
+public class N_05_Precedence {
     public static void main(String[] args) {
         // Precedence & Associativity
 
