@@ -1,6 +1,6 @@
 package com.company;
 
-public class N_4_Operators {
+public class N_04_Operators {
     public static void main(String[] args) {
         // 1. Arithmetic Operators
         int a = 4;
