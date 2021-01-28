@@ -1,7 +1,7 @@
 package com.company;
 import java.util.Scanner;
 
-public class N_3_Percentage {
+public class N_03_Percentage {
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
