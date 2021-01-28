@@ -1,6 +1,6 @@
 package com.company;
 
-public class N_8_String_Methods {
+public class N_08_String_Methods {
     public static void main(String[] args) {
         String name = "Abcde";
         // System.out.println(name);
