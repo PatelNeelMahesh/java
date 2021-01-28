@@ -1,7 +1,7 @@
 package com.company;
 import java.util.Scanner;
 
-public class N_9_Conditionals {
+public class N_09_Conditionals {
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
