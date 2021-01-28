@@ -1,7 +1,7 @@
 package com.company;
 import java.util.Scanner;
 
-public class N_7_Strings {
+public class N_07_Strings {
     public static void main(String[] args) {
         // String name = new String("Name");
         // String name = "Name";
