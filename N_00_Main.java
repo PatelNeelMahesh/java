@@ -1,6 +1,6 @@
 package com.company;
 
-public class N_0_Main {
+public class N_00_Main {
 
     public static void main(String[] args) {
 	// write your code here
