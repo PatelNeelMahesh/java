@@ -1,6 +1,6 @@
 package com.company;
 
-public class N_6_Resulting_Data_Type {
+public class N_06_Resulting_Data_Type {
     public static void main(String[] args) {
         byte x = 5;
         int y = 6;
