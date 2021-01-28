@@ -1,7 +1,7 @@
 package com.company;
 import java.util.Scanner;
 
-public class N_2_TakingInput {
+public class N_02_TakingInput {
     public static void main(String[] args)
     {
         Scanner var = new Scanner(System.in);
