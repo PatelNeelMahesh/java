@@ -1,1 +1,2 @@
-# java exercises in intellij IDEA
+# java practice work and notes
+
